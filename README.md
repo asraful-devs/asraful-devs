@@ -20,9 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asraful-devs&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-<div class='flex border-4'>
-  ![](https://github-contributor-stats.vercel.app/api?username=asraful-devs&limit=5&theme=default&combine_all_yearly_contributions=true)
-</div>
+![](https://github-contributor-stats.vercel.app/api?username=asraful-devs&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 
 ---
